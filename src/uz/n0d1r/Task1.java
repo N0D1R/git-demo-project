@@ -25,9 +25,9 @@ public class Task1 {
 
 
     // TODO: 23-Sep-19 Tohir bo'lish funksiyasini yoz
-    private static int div(int a, int b) {
-        // Funksiyani logikasi
+    private static double div(double a, double b) {
 
-        return 0;
+        return a/b;
     }
+
 }
