@@ -30,4 +30,9 @@ public class Task1 {
 
         return 0;
     }
+
+    private static int multiply(int a, int b) {
+        return a * b;
+    }
+
 }
