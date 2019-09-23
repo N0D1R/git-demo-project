@@ -16,5 +16,18 @@ public class Task1 {
         return a+b;
     }
 
+    // TODO: 23-Sep-19 Sulaymon ayirish funksiyasini yoz
+    private static int minus(int a, int b) {
+        // Funksiyani logikasi
 
+        return 0;
+    }
+
+
+    // TODO: 23-Sep-19 Tohir bo'lish funksiyasini yoz
+    private static int div(int a, int b) {
+        // Funksiyani logikasi
+
+        return 0;
+    }
 }
